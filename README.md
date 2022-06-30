@@ -5,16 +5,16 @@
   A company located in south Africa/johannesburg offering various servives
     <br/>
     <br/>
-    <a href="https://github.com/Thendo-T/ATM/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Thendo-T/Onolo/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
   
-    <a href="https://github.com/Thendo-T/ATM/issues">Report Bug</a>
+    <a href="https://github.com/Thendo-T/Onolo/issues">Report Bug</a>
     .
-    <a href="https://github.com/Thendo-T/ATM/issues">Request Feature</a>
+    <a href="https://github.com/Thendo-T/Onolo/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Thendo-T/ATM?color=dark-green) ![Issues](https://img.shields.io/github/issues/Thendo-T/ATM) ![License](https://img.shields.io/github/license/Thendo-T/ATM) 
+![Contributors](https://img.shields.io/github/contributors/Thendo-T/Onolo?color=dark-green) ![Issues](https://img.shields.io/github/issues/Thendo-T/Onolo) ![License](https://img.shields.io/github/license/Thendo-T/Onolo) 
 
 
