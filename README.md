@@ -8,12 +8,11 @@
     <a href="https://github.com/Thendo-T/Onolo/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-  
-    <a href="https://github.com/Thendo-T/Onolo/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Thendo-T/Onolo/issues">Request Feature</a>
   </p>
 </p>
+
+- [Report Bug](https://github.com/Thendo-T/Onolo/issues)
+- [Request Feature](https://github.com/Thendo-T/Onolo/issues)
 
 ![Contributors](https://img.shields.io/github/contributors/Thendo-T/Onolo?color=dark-green) ![Issues](https://img.shields.io/github/issues/Thendo-T/Onolo) ![License](https://img.shields.io/github/license/Thendo-T/Onolo) 
 
